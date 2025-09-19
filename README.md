@@ -1,4 +1,3 @@
-<!-- 炫酷渐变背景和动效 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Tarquin&fontSize=80&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling"/>
 </div>
